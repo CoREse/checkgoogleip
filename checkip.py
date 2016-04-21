@@ -65,7 +65,7 @@ g_maxhandletimeout = 1500
 #最大可用IP数量
 g_maxhandleipcnt = 50
 #检查IP的线程数
-g_maxthreads = 60
+g_maxthreads = 400
 #是否立即检查上一次的google ip列表
 g_checklastgoogleipfirst = 1
 #结束时是否需要对ip_tmpok.txt里面的结果进行排序
